@@ -1,0 +1,25 @@
+img {
+  width: 90%;
+}
+
+div.jumbotron#first-image, div.jumbotron#second-image, div.jumbotron#third-image {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 0px;
+}
+
+div.jumbotron#first-image {
+  background-image: url('../assets/img/panda2.jpg');
+  height: 50vh;
+}
+
+div.jumbotron#second-image {
+  background-image: url('../assets/img/panda2.jpg');
+  height: 70vh;
+}
+
+div.jumbotron#third-image {
+  background-image: url('../assets/img/panda2.jpg');
+  height: 50vh;
+}
